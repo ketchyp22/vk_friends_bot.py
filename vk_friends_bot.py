@@ -654,7 +654,7 @@ def main():
         bot = VKFriendsInviteBot()
         bot.run()
         
-        # Запуск по расписанию с интервалом
+        # Запуск по расписанию с интервалом для Railway
         while True:
             # Интервал между запусками (4-6 часов)
             sleep_hours = random.uniform(4.0, 6.0)
