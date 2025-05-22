@@ -1,9 +1,0 @@
-.env
-__pycache__/
-*.py[cod]
-*$py.class
-.venv
-venv/
-ENV/
-friends_stats.json
-vk_friends_bot.log
